@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eepheoghim.dumpco.re/sitemap.xml
